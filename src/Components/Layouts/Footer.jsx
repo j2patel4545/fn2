@@ -58,7 +58,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500">
-            Copyright &copy; 2024 Rohit Studio
+            Copyright &copy; 2024 jetal patel
           </p>
           <div className="flex space-x-5 mt-4 md:mt-0">
             {/* Instagram Link */}
